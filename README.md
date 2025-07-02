@@ -25,14 +25,17 @@
 - 🎯 Smooth scrolling and subtle animations  
 - 🧱 Well-structured HTML/CSS/JS project
 
-## 📂 Project Structure
+🧠 What I Learned
+Layout design for fitness business websites
 
-Gym-Rouge-Five/
-├── index.html
-├── css/
-│ └── main.scss
-├── js/
-│ └── main.js
-├── img/
-│ └── [images]
-└── README.md
+Modular SCSS structuring
+
+Creating simple interactive effects using vanilla JS
+
+Optimizing responsive behavior across devices
+
+Deploying to Vercel
+
+📬 Feedback
+This project was created as part of my frontend practice and personal portfolio.
+Suggestions and feedback are welcome!
