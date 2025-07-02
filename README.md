@@ -1,45 +1,38 @@
-# 🏋️ SportSite — Modern Fitness & Sports Club Website
+# 🏋️ Gym Rouge — Fitness Landing Page
 
-Welcome to **SportSite**, a sleek and responsive website built for gyms, personal trainers, and sports clubs. This project showcases a clean UI, smooth user experience, and practical structure tailored for promoting fitness services online.
-
----
-
-## 🚀 Features
-
-- 🧩 Modular and responsive design
-- 📅 Training schedule section
-- 💪 Services and pricing plans
-- 🧑‍🏫 About trainers & team members
-- 📝 Blog for health and fitness articles
-- 📱 Mobile-friendly layout
-- 🌐 Clean, semantic HTML structure
-
----
-
-## 🔧 Tech Stack
-
-- **HTML5** — Markup structure
-- **CSS3 / SCSS** — Styling and responsive layout
-- **JavaScript (Vanilla)** — Basic interactivity and dynamic content
-- *(Optional)* Frameworks like React or Vue can be integrated in future versions
-
----
-
-## 📁 Folder Structure
-
-/sportsite
-│
-├── index.html
-├── /css
-│ └── main.css
-├── /js
-│ └── script.js
-├── /img
-│ └── (images and icons)
-├── /blog
-│ └── blog.html
-└── README.md
+**Gym Rouge** is a modern and fully responsive landing page for a fitness or gym business. The layout is designed using **HTML5**, **SCSS**, and **JavaScript**, providing a clean user interface with mobile-first responsiveness and animated scroll transitions.
 
 ### Demo Screeshots
 
 ![Fitlife Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
+## 🔗 Live Demo
+
+👉 [View Live Site on Vercel](https://gym-rouge-five.vercel.app/)
+
+## 🛠️ Tech Stack
+
+- HTML5
+- SCSS (for modern and responsive styles)
+- JavaScript (basic interactivity)
+- Vercel (for deployment)
+
+## 📦 Features
+
+- 🏋️ Modern gym/fitness-themed design  
+- 📱 Responsive layout for mobile, tablet, and desktop  
+- 🎨 Styled sections with clean visual hierarchy  
+- 🎯 Smooth scrolling and subtle animations  
+- 🧱 Well-structured HTML/CSS/JS project
+
+## 📂 Project Structure
+
+Gym-Rouge-Five/
+├── index.html
+├── css/
+│ └── main.scss
+├── js/
+│ └── main.js
+├── img/
+│ └── [images]
+└── README.md
